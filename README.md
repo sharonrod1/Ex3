@@ -34,4 +34,5 @@ yearofplenty: Take any two resource cards from the bank.
 knight: Move the robber and steal a resource from another player.
 Ending the Game
 You can end the game at any time by entering the quit command. If you choose to quit, you will be prompted to check the result by typing 1.
+
 if you wanna run the test you write make test and then ./test
